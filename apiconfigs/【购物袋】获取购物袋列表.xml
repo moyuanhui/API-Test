@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<api>
+  <name><![CDATA[【购物袋】获取购物袋列表]]></name>
+  <url><![CDATA[http://localhost:62431/api/shopping/shoppingList?start=0&limit=10]]></url>
+  <httpAction><![CDATA[HttpGet]]></httpAction>
+  <client><![CDATA[Content-Type: application/json
+Content-Type-Charset:utf-8
+Accept:application/json]]></client>
+  <param><![CDATA[]]></param>
+  <remark><![CDATA[无]]></remark>
+  <needsCookie><![CDATA[True]]></needsCookie>
+</api>

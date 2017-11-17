@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<api>
+  <name><![CDATA[【购物袋】提交订单]]></name>
+  <url><![CDATA[http://localhost:62431/api/shopping/submitOrder]]></url>
+  <httpAction><![CDATA[HttpPost]]></httpAction>
+  <client><![CDATA[Content-Type: application/json
+Content-Type-Charset:utf-8
+Accept:application/json]]></client>
+  <param><![CDATA[{
+  "freight": 100,
+  "totalAmount": 300,
+  "addressId": "bcd85fc5-4716-ccfc-3b29-08d3d8b8b8e8",
+  "buyGoods": [
+    {
+      "buyNumber": 5,
+      "skuId": "40d39192-b618-c05a-0c59-08d3d8b63a4f"
+    },
+    {
+      "buyNumber": 10,
+      "skuId": "bcd85fc5-4716-ccfc-3b29-08d3d8b8b8e8"
+    }
+  ]
+}]]></param>
+  <remark><![CDATA[【】]]></remark>
+  <needsCookie><![CDATA[True]]></needsCookie>
+</api>

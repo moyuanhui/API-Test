@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<api>
+  <name><![CDATA[【扫一扫】查询商品条形码]]></name>
+  <url><![CDATA[http://localhost:62431/api/scan/searchBarCode?barCode=1234567890]]></url>
+  <httpAction><![CDATA[HttpGet]]></httpAction>
+  <client><![CDATA[Content-Type: application/json
+Content-Type-Charset:utf-8
+Accept:application/json]]></client>
+  <param><![CDATA[]]></param>
+  <remark><![CDATA[no]]></remark>
+  <needsCookie><![CDATA[False]]></needsCookie>
+</api>

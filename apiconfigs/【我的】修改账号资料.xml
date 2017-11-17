@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<api>
+  <name><![CDATA[【我的】修改账号资料]]></name>
+  <url><![CDATA[http://localhost:62431/api/mine/modifyAccount]]></url>
+  <httpAction><![CDATA[HttpPost]]></httpAction>
+  <client><![CDATA[Content-Type: application/json
+Content-Type-Charset:utf-8
+Accept:application/json]]></client>
+  <param><![CDATA[{
+  "nickName": "sample string 1",
+  "avatar": "sample string 2",
+  "sex": "sample string 3"
+}]]></param>
+  <remark><![CDATA[no]]></remark>
+  <needsCookie><![CDATA[True]]></needsCookie>
+</api>

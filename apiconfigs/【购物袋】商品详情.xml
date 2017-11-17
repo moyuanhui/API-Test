@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<api>
+  <name><![CDATA[【购物袋】商品详情]]></name>
+  <url><![CDATA[http://localhost:62431/api/shopping/goodsDetails?skuId=bcd85fc5-4716-ccfc-3b29-08d3d8b8b8e7]]></url>
+  <httpAction><![CDATA[HttpGet]]></httpAction>
+  <client><![CDATA[Content-Type: application/json
+Content-Type-Charset:utf-8
+Accept:application/json]]></client>
+  <param><![CDATA[]]></param>
+  <remark><![CDATA[no]]></remark>
+  <needsCookie><![CDATA[False]]></needsCookie>
+</api>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<api>
+  <name><![CDATA[【会员认证】会员第三方登录login]]></name>
+  <url><![CDATA[http://n1.3xianghe.com/api/MemberAuth/EscrowLogin]]></url>
+  <httpAction><![CDATA[HttpPost]]></httpAction>
+  <client><![CDATA[Content-Type: application/json
+Content-Type-Charset:utf-8
+Accept:application/json]]></client>
+  <param><![CDATA[{
+    "escrowType": 1,
+    "token": "7759B8A4213DFA2F26180014F6E5AA14",
+    "header": "http://qzapp.qlogo.cn/qzapp/1105519174/1398A02ACD3473142E93CEF82948BDAE/100",
+    "uid": "1398A02ACD3473142E93CEF82948BDAE",
+    "nickName": "林"
+}]]></param>
+  <remark><![CDATA[无]]></remark>
+  <needsCookie><![CDATA[False]]></needsCookie>
+</api>

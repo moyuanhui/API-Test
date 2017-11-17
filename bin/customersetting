@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customer>
+  <UseProxy><![CDATA[False]]></UseProxy>
+  <ProxyIp><![CDATA[]]></ProxyIp>
+  <ProxyPort><![CDATA[]]></ProxyPort>
+  <UseHost><![CDATA[False]]></UseHost>
+  <Host><![CDATA[http://n1.sumxiang.com]]></Host>
+</customer>

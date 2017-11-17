@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<api>
+  <name><![CDATA[【会员认证】登录 Login]]></name>
+  <url><![CDATA[http://localhost:62431/api/v1/register/login]]></url>
+  <httpAction><![CDATA[HttpPost]]></httpAction>
+  <client><![CDATA[Content-Type: application/json
+Content-Type-Charset:utf-8
+Accept:application/json]]></client>
+  <param><![CDATA[{
+  "name": "18782962282",
+  "password": "E10ADC3949BA59ABBE56E057F20F883E",
+  "telephoneCode": "+86"
+}]]></param>
+  <remark><![CDATA[无]]></remark>
+  <needsCookie><![CDATA[False]]></needsCookie>
+</api>

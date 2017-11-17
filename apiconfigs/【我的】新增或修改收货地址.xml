@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<api>
+  <name><![CDATA[【我的】新增或修改收货地址]]></name>
+  <url><![CDATA[http://localhost:62431/api/mine/updateAddress]]></url>
+  <httpAction><![CDATA[HttpPost]]></httpAction>
+  <client><![CDATA[Content-Type: application/json
+Content-Type-Charset:utf-8
+Accept:application/json]]></client>
+  <param><![CDATA[{
+  "addressId": "",
+  "name": "samp",
+  "phone": "11012014015",
+  "idCard": "452232056415952415",
+  "addressLine": "sample string 5",
+  "country": "新加坡",
+  "province": "四川",
+  "city": "成都",
+  "state": "芝加哥",
+  "strin": "双流",
+  "zipCode": "652144"
+}]]></param>
+  <remark><![CDATA[no]]></remark>
+  <needsCookie><![CDATA[True]]></needsCookie>
+</api>

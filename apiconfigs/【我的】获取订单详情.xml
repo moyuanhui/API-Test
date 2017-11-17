@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<api>
+  <name><![CDATA[【我的】获取订单详情]]></name>
+  <url><![CDATA[http://localhost:62431/api/orderList/orderDetails?orderId=2016091300001]]></url>
+  <httpAction><![CDATA[HttpGet]]></httpAction>
+  <client><![CDATA[Content-Type: application/json
+Content-Type-Charset:utf-8
+Accept:application/json]]></client>
+  <param><![CDATA[]]></param>
+  <remark><![CDATA[no]]></remark>
+  <needsCookie><![CDATA[True]]></needsCookie>
+</api>

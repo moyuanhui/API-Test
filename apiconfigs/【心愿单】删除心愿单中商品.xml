@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<api>
+  <name><![CDATA[【心愿单】删除心愿单中商品]]></name>
+  <url><![CDATA[http://localhost:62431/api/wish/deletelist?wishId=70AF78CB-CFBE-C135-963D-08D3D95ECC9C]]></url>
+  <httpAction><![CDATA[HttpGet]]></httpAction>
+  <client><![CDATA[Content-Type: application/json
+Content-Type-Charset:utf-8
+Accept:application/json]]></client>
+  <param><![CDATA[]]></param>
+  <remark><![CDATA[no]]></remark>
+  <needsCookie><![CDATA[False]]></needsCookie>
+</api>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<api>
+  <name><![CDATA[【扫一扫】移除历史扫一扫]]></name>
+  <url><![CDATA[http://localhost:62431/api/scan/deleteHistory?historyId=187E437F-4ACC-CBF7-5DFE-08D3DBB89508]]></url>
+  <httpAction><![CDATA[HttpGet]]></httpAction>
+  <client><![CDATA[Content-Type: application/json
+Content-Type-Charset:utf-8
+Accept:application/json]]></client>
+  <param><![CDATA[]]></param>
+  <remark><![CDATA[no]]></remark>
+  <needsCookie><![CDATA[False]]></needsCookie>
+</api>

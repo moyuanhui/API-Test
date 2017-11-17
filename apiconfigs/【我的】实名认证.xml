@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<api>
+  <name><![CDATA[【我的】实名认证]]></name>
+  <url><![CDATA[http://localhost:62431/api/mine/certification]]></url>
+  <httpAction><![CDATA[HttpPost]]></httpAction>
+  <client><![CDATA[Content-Type: application/json
+Content-Type-Charset:utf-8
+Accept:application/json]]></client>
+  <param><![CDATA[{
+  "realName": "sam",
+  "idCard": "415236542156325412"
+}]]></param>
+  <remark><![CDATA[no]]></remark>
+  <needsCookie><![CDATA[True]]></needsCookie>
+</api>
